@@ -20,14 +20,13 @@ I also practiced advanced concepts like **transaction management**, **error hand
 - Completed all backend projects for the month on time.  
 - Improved my confidence working with **context managers** and **asynchronous programming** in Python.  
 - Shared my progress with peers on Discord and GitHub.  
-- Continued building my professional portfolio under **ALX SE Program**.
+- Continued building my professional portfolio under the **ALX SE Program**.
 
 ---
 
 ## 🔗 Shared Work Log Links
 - **GitHub:** [https://github.com/TAREK-1988/alx-backend-prodev](https://github.com/TAREK-1988/alx-backend-prodev)
-- **Discord Post:** (add your post link here after sharing in #general)
-- **Social Post (optional):** (LinkedIn / X / Facebook post link)
+
 
 ---
 
